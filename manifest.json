@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Hostel Fuel — Diet Planner",
   "short_name": "Hostel Fuel",
-  "description": "Hostel meal planner, calorie and protein tracker, food swaps and weekly reports.",
+  "description": "Hostel meal planner, calorie and protein tracker, custom foods and weekly reports.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
